@@ -113,8 +113,8 @@ The top de novo motif identified in the Opa late dataset was:
 
 #### Opa early
 
-![Opa early motif](./figures/Opa_early_motif1_logo.svg)
+![Opa early motif](https://raw.githubusercontent.com/kyriakoulatzaka/homer-de-novo-motif-analysis/main/figures/Opa_early_motif1_logo.svg)
 
 #### Opa late
 
-![Opa late motif](./figures/Opa_late_motif1_logo.svg)
+![Opa late motif](https://raw.githubusercontent.com/kyriakoulatzaka/homer-de-novo-motif-analysis/main/figures/Opa_late_motif1_logo.svg)
