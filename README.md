@@ -92,3 +92,29 @@ The resulting PWM can be used for downstream motif scanning within candidate reg
 ## Biological context
 
 This analysis forms part of a broader investigation of transcriptional regulation and enhancer activity during early *Drosophila melanogaster* embryogenesis.
+
+## Results
+
+The top de novo motif identified in the Opa early dataset was:
+
+`CNCAGCRGGDGG`
+
+- Enrichment p-value: `1e-992`
+- Target sequences containing motif: `18.07%`
+
+The top de novo motif identified in the Opa late dataset was:
+
+`CCMCCCGCTGNG`
+
+- Enrichment p-value: `1e-855`
+- Target sequences containing motif: `17.51%`
+
+### Motif logos
+
+#### Opa early
+
+![Opa early motif](figures/Opa_early_motif1_logo.svg)
+
+#### Opa late
+
+![Opa late motif](figures/Opa_late_motif1_logo.svg)
