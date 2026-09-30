@@ -117,4 +117,4 @@ The top de novo motif identified in the Opa late dataset was:
 
 #### Opa late
 
-![Opa late motif](./figures/Opa_late_motif1_logo.png)
+![Opa late motif](./figures/Opa_late_motif1_logo.svg)
