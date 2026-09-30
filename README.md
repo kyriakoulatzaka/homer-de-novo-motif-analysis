@@ -105,6 +105,7 @@ This analysis forms part of a broader investigation of transcriptional regulatio
 │   ├── Opa_early_motif1.info.html
 │   └── Opa_late_motif1.info.html
 └── README.md
+```
 
 ## Results
 
