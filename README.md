@@ -89,9 +89,6 @@ The resulting PWM can be used for downstream motif scanning within candidate reg
 - UCSC Genome Browser
 - BED-formatted genomic intervals
 
-## Biological context
-
-This analysis forms part of a broader investigation of transcriptional regulation and enhancer activity during early *Drosophila melanogaster* embryogenesis.
 
 ## Repository structure
 
@@ -134,3 +131,8 @@ The top de novo motif identified in the Opa late dataset was:
 ![Opa late motif](./figures/Opa_late_motif1_logo.svg)
 
 Both early and late Opa ChIP-seq datasets showed strong enrichment for Opa-like sequence motifs, with comparable motif occurrence in target regions.
+
+
+## Biological context
+
+This analysis forms part of a broader investigation of transcriptional regulation and enhancer activity during early *Drosophila melanogaster* embryogenesis.
