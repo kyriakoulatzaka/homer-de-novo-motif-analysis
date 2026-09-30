@@ -118,3 +118,5 @@ The top de novo motif identified in the Opa late dataset was:
 #### Opa late
 
 ![Opa late motif](./figures/Opa_late_motif1_logo.svg)
+
+Both early and late Opa ChIP-seq datasets showed strong enrichment for Opa-like sequence motifs, with comparable motif occurrence in target regions.
